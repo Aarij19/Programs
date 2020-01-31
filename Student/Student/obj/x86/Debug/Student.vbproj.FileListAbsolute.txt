@@ -1,0 +1,8 @@
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\bin\Debug\Student.exe
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\bin\Debug\Student.pdb
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\bin\Debug\Student.xml
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\obj\x86\Debug\Student.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\obj\x86\Debug\Student.exe
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\obj\x86\Debug\Student.xml
+C:\Users\Muhammad Aarij\Desktop\Programs VB\Student\Student\obj\x86\Debug\Student.pdb

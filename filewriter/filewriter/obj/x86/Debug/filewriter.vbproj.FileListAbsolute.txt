@@ -1,0 +1,8 @@
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\bin\Debug\filewriter.exe
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\bin\Debug\filewriter.pdb
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\bin\Debug\filewriter.xml
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\obj\x86\Debug\filewriter.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\obj\x86\Debug\filewriter.exe
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\obj\x86\Debug\filewriter.xml
+C:\Users\Muhammad Aarij\Desktop\Programs VB\filewriter\filewriter\obj\x86\Debug\filewriter.pdb
